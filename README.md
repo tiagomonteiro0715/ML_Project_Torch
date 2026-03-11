@@ -2,7 +2,7 @@
 
 Benchmarking **CMS-augmented Mamba** against plain **Mamba** on the Long Range Arena (LRA).
 
-Mamba is a selective state space model that achieves linear-time sequence modeling. This project augments it with a **Contextual Memory System (CMS)** — an external memory bank with content-based addressing — to improve long-range dependency handling, and measures the impact across all six LRA tasks.
+Mamba is a selective state space model that achieves linear-time sequence modeling. This project augments it with a **Contextual Memory System (CMS)** an external memory bank with content-based addressing to improve long-range dependency handling, and measures the impact across all six LRA tasks.
 
 ## Setup
 
